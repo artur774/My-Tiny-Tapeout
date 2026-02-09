@@ -22,9 +22,9 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: ""
-  ui[1]: ""
-  ui[2]: ""
+  ui[0]: "speed"
+  ui[1]: "direction"
+  ui[2]: "custom"
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
